@@ -1,9 +1,9 @@
 
 [ansible-test]
-172.31.82.101 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/ssh_key
+ 54.161.150.235 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/ssh_key
 
 [ansible-test1]
-172.31.94.216 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/ssh_key
+3.89.120.60 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/home/ubuntu/ssh_key
 
 [lamp:naidu]  
 ansible-test
