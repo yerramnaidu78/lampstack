@@ -1,6 +1,6 @@
 ---
 # Setup LAMP Stack
-- hosts: lamp:naidu
+- hosts: ansible-test
   tasks:
     - name: install lamp stack
       become: yes
